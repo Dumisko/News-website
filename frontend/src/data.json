@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1",
+    "headline": "Cyclone Remal Hits West Bengal Coastline",
+    "imageUrl": "https://example.com/images/cyclone.jpg",
+    "summary": "Cyclone Remal made landfall in West Bengal, affecting coastal villages and disrupting transport.",
+    "detailedNews": "Cyclone Remal caused severe damage to the coastal areas of West Bengal, uprooting trees and damaging houses. Relief operations have started and thousands have been moved to safer shelters. The government is monitoring the situation closely.",
+    "writer": "Saikat Shasmal",
+    "date": "2025-06-03",
+    "time": "11:30 AM",
+    "newsType": "Weather",
+    "hashtags": ["Cyclone", "WestBengal", "Disaster"]
+  },
+  {
+    "_id": "2",
+    "headline": "India Wins T20 Series Against Australia",
+    "imageUrl": "https://example.com/images/cricket.jpg",
+    "summary": "India clinched the T20 series 3-2 with a spectacular performance in the final match at Mumbai.",
+    "detailedNews": "In a thrilling match, India defeated Australia by 7 wickets. Virat Kohli's unbeaten 82 helped seal the series win. Fans celebrated nationwide, marking a big moment for Indian cricket ahead of the World Cup.",
+    "writer": "Ravi Mehra",
+    "date": "2025-06-02",
+    "time": "08:00 PM",
+    "newsType": "Sports",
+    "hashtags": ["Cricket", "India", "Victory"]
+  },
+  {
+    "_id": "3",
+    "headline": "NASA Announces New Mission to Europa",
+    "imageUrl": "https://example.com/images/europa.jpg",
+    "summary": "NASA will launch a mission to Jupiter’s moon Europa to explore potential signs of life.",
+    "detailedNews": "The Europa Clipper mission aims to study the icy surface and subsurface ocean of Europa. Scientists believe the moon might host microbial life. The mission is expected to launch in October 2025.",
+    "writer": "Anjali Sen",
+    "date": "2025-06-01",
+    "time": "02:45 PM",
+    "newsType": "Science",
+    "hashtags": ["NASA", "Europa", "SpaceMission"]
+  },
+  {
+    "_id": "4",
+    "headline": "Startup Raises $50M for AI-Powered Health App",
+    "imageUrl": "https://example.com/images/healthtech.jpg",
+    "summary": "A Bengaluru-based startup secured funding for its AI health assistant app aimed at early disease detection.",
+    "detailedNews": "The app uses machine learning to analyze user symptoms and provide medical suggestions. With new funding, the startup plans to expand its reach across India and improve its AI capabilities.",
+    "writer": "Priya Das",
+    "date": "2025-06-04",
+    "time": "10:00 AM",
+    "newsType": "Technology",
+    "hashtags": ["Startup", "AIHealth", "Innovation"]
+  }
+]

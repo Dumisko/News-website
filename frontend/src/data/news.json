@@ -1,0 +1,81 @@
+
+[
+  {
+    "headline": "India Wins T20 Series",
+    "imageUrl": "/assets/images/cricket.jpg",
+    "summary": "India clinched the T20 series 3-2 with a spectacular performance.",
+    "detailedNews": "India defeated Australia by 7 wickets in the final match of the series, marking a stunning comeback after trailing earlier. The match, held at Mumbai's iconic Wankhede Stadium, saw a stellar performance from captain Rohit Sharma, who scored a blistering 72 off 45 balls. Australia set a competitive target of 175, with Glenn Maxwell showcasing his explosive batting skills. However, India's bowlers, particularly Jasprit Bumrah, delivered a stellar show, restricting Australia's batting lineup. In the chase, Virat Kohli played a crucial role, scoring 55 runs and stabilizing the innings, while Hardik Pandya sealed the win with a powerful six in the final overs. This victory strengthens India's T20 dominance and boosts confidence ahead of the upcoming World Cup.",
+    "writer": "Saikat Shasmal",
+    "date": "2025-06-02",
+    "time": "08:00 PM",
+    "newsType": "sports",
+    "hashtags": ["Cricket", "India", "Victory"]
+  },
+  {
+    "headline": "NASA Plans Europa Mission",
+    "imageUrl": "/assets/images/europa.jpg",
+    "summary": "NASA to explore Jupiter’s moon Europa for signs of life.",
+    "detailedNews": "NASA has officially announced its upcoming mission, Europa Clipper, set to launch in October 2025 to explore Jupiter’s icy moon. Scientists believe Europa harbors an ocean beneath its frozen surface that could contain extraterrestrial life. The spacecraft will orbit Jupiter while making close flybys of Europa to analyze its ice layers, water plumes, and potential habitability. Equipped with high-resolution cameras and spectrometers, the probe aims to study surface features, measure ice thickness, and detect organic molecules. NASA hopes to gather crucial data that might revolutionize our understanding of extraterrestrial environments and set the stage for future manned missions to outer moons.",
+    "writer": "Anjali Sen",
+    "date": "2025-06-01",
+    "time": "02:45 PM",
+    "newsType": "space",
+    "hashtags": ["NASA", "SpaceMission"]
+  },
+  {
+    "headline": "Stock Market Hits Record Highs",
+    "imageUrl": "/assets/images/stock-market.jpg",
+    "summary": "Indian stock market reaches an all-time high as IT and energy stocks surge.",
+    "detailedNews": "The Bombay Stock Exchange and National Stock Exchange have witnessed a historic rally as Sensex breached 75,000 points for the first time. The surge was driven by strong corporate earnings and optimism in the IT and energy sectors. TCS and Infosys reported better-than-expected quarterly growth, while oil companies saw a rise in crude prices. Investors remain bullish on India's economic stability, and analysts suggest the market may continue its upward trend in the coming months.",
+    "writer": "Ravi Mehta",
+    "date": "2025-06-03",
+    "time": "11:00 AM",
+    "newsType": "business",
+    "hashtags": ["StockMarket", "IndiaGrowth"]
+  },
+  {
+    "headline": "New Breakthrough in Cancer Research",
+    "imageUrl": "/assets/images/cancer-research.jpg",
+    "summary": "Scientists discover a new drug that significantly slows tumor growth.",
+    "detailedNews": "A team of researchers at Harvard Medical School has developed a groundbreaking cancer treatment that could drastically improve survival rates for patients with aggressive tumors. The drug, named Cureset, targets specific proteins responsible for tumor growth and blocks their activity. Early clinical trials have shown a 60% reduction in tumor size in patients with pancreatic and lung cancer. Experts believe this discovery could revolutionize cancer therapy and pave the way for more effective treatment options in the future.",
+    "writer": "Dr. Neha Kapoor",
+    "date": "2025-06-04",
+    "time": "09:30 AM",
+    "newsType": "science",
+    "hashtags": ["CancerResearch", "MedicalBreakthrough"]
+  },
+  {
+    "headline": "India's Monsoon Season Begins",
+    "imageUrl": "/assets/images/monsoon.jpg",
+    "summary": "Heavy rainfall expected across multiple states as monsoon arrives early.",
+    "detailedNews": "The Indian Meteorological Department has confirmed the arrival of monsoon rains, bringing relief from extreme summer temperatures. States like Kerala, Maharashtra, and West Bengal are experiencing heavy downpours, with flooding reported in some areas. Farmers are optimistic as early monsoon boosts crop productivity. The government has issued advisories to prepare for possible waterlogging and infrastructure damage in urban areas.",
+    "writer": "Arjun Bhatt",
+    "date": "2025-06-05",
+    "time": "06:00 AM",
+    "newsType": "weather",
+    "hashtags": ["Monsoon", "IndiaRain", "WeatherUpdate"]
+  },
+  {
+    "headline": "International Leaders Meet for Climate Summit",
+    "imageUrl": "/assets/images/climate-summit.jpg",
+    "summary": "World leaders gather to discuss climate change solutions.",
+    "detailedNews": "The annual Climate Change Summit is taking place in Geneva, where representatives from over 100 countries are discussing strategies to combat global warming. Key topics include renewable energy policies, carbon footprint reduction, and financial aid to developing nations to improve their environmental infrastructure. India has pledged to cut carbon emissions by 30% in the next decade, while the EU pushes for stricter policies on industrial pollution.",
+    "writer": "Sophia Miller",
+    "date": "2025-06-06",
+    "time": "02:00 PM",
+    "newsType": "geopolitics",
+    "hashtags": ["ClimateChange", "Environment"]
+  },
+  {
+    "headline": "Mars Rover Sends New Images",
+    "imageUrl": "/assets/images/mars-rover.jpg",
+    "summary": "NASA's Perseverance rover captures high-resolution images of Mars' surface.",
+    "detailedNews": "NASA's Perseverance rover has successfully transmitted stunning images from Mars' Jezero Crater, revealing new rock formations and evidence of ancient river channels. Scientists are analyzing the photos for clues about Mars' past, hoping to determine whether microbial life once existed on the planet.",
+    "writer": "David Clarke",
+    "date": "2025-06-07",
+    "time": "10:45 AM",
+    "newsType": "space",
+    "hashtags": ["MarsMission", "NASA"]
+  }
+]
+
