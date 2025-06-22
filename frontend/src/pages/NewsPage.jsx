@@ -117,7 +117,7 @@ function NewsPage() {
   const [news, setNews] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/api/news/${id}`)
+    fetch(`https://news-website-backend-qrpr.onrender.com/api/news/${id}`)
       .then(res => res.json())
       .then(data => setNews(data))
       .catch(err => console.error("Error fetching news:", err));

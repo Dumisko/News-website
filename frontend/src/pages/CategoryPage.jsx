@@ -38,7 +38,7 @@ function CategoryPage() {
   const [news, setNews] = useState([]);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/api/news/type/${type}`)
+    fetch(`https://news-website-backend-qrpr.onrender.com/api/news/type/${type}`)
       .then(res => res.json())
       .then(data => setNews(data))
       .catch(err => console.error("Error loading category:", err));

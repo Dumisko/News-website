@@ -7,7 +7,7 @@ function Home() {
     const [news, setNews] = useState([])
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/news')
+    fetch('https://news-website-backend-qrpr.onrender.com/api/news')
       .then(res => res.json())
       .then(data => setNews(data))
       .catch(err => console.error("Error fetching news:", err));
